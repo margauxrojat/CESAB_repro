@@ -22,3 +22,5 @@ inst/doc
 
 docs/
 figures/
+*.csv
+data/wildfinder/*.csv
